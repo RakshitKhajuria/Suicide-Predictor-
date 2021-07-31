@@ -53,7 +53,7 @@ To run this model, run the following command in the terminal
   
 ## Installation
 
-Install Django with npm
+Install Django 
 
 ```bash
   $ python -m pip install Django
