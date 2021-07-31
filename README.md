@@ -1,7 +1,6 @@
 
-# India's Suicide Predictor Model Using Django
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rakshit Khajuria</h1>
 
-A simple **Machine Learning** model converted into a **WebApp** which uses *YEAR* as a input and gives you the total number of suicides that happened or will be happening in that year. 
 
 # India's Suicide Predictor Model Using Django
 
