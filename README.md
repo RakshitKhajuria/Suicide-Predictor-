@@ -22,6 +22,7 @@ A simple **Machine Learning** model converted into a **WebApp** which uses *YEAR
 <a href="https://kaggle.com/rakshitkhajuria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rakshitkhajuria" height="30" width="40" /></a>
 <a href="https://instagram.com/_x.rakshit_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_x.rakshit_s" height="30" width="40" /></a>
 </p>
+
 ## Screenshots
 
 
