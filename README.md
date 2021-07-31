@@ -6,6 +6,12 @@
 
 A simple **Machine Learning** model converted into a **WebApp** which uses *YEAR* as a input and gives you the total number of suicides that happened or will be happening in that year. 
 
+## Screenshots
+
+
+![Screenshot 2021-07-31 181702](https://user-images.githubusercontent.com/71117423/127740414-e025c03b-4e0b-40e9-ad17-6193089b48c1.png)
+
+
 ## 🚀 About Me
 
  🌱 I’m currently learning **Python , Machine learning, Deep Learning, Data Analytics, Mathematics**
@@ -23,10 +29,6 @@ A simple **Machine Learning** model converted into a **WebApp** which uses *YEAR
 <a href="https://instagram.com/_x.rakshit_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_x.rakshit_s" height="30" width="40" /></a>
 </p>
 
-## Screenshots
-
-
-![Screenshot 2021-07-31 181702](https://user-images.githubusercontent.com/71117423/127740414-e025c03b-4e0b-40e9-ad17-6193089b48c1.png)
 
 ## Running Tests
 
