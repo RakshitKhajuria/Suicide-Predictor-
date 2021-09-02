@@ -12,23 +12,6 @@ A simple **Machine Learning** model converted into a **WebApp** which uses *YEAR
 ![Screenshot 2021-07-31 181702](https://user-images.githubusercontent.com/71117423/127740414-e025c03b-4e0b-40e9-ad17-6193089b48c1.png)
 
 
-## 🚀 About Me
-
- 🌱 I’m currently learning **Python , Machine learning, Deep Learning, Data Analytics, Mathematics**
-
-- 👨‍💻 **All of my projects are available at** [https://github.com/Ryzxxl](https://github.com/Ryzxxl)
-
-- 📫 **How to reach me rakshitraina1234@gmail.com**
-
-- 📄 **Know about my experiences** [https://www.linkedin.com/in/rakshit-khajuria-3627781b8/](https://www.linkedin.com/in/rakshit-khajuria-3627781b8/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rakshit-khajuria-3627781b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakshit-khajuria-3627781b8" height="30" width="40" /></a>
-<a href="https://kaggle.com/rakshitkhajuria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rakshitkhajuria" height="30" width="40" /></a>
-<a href="https://instagram.com/_x.rakshit_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_x.rakshit_s" height="30" width="40" /></a>
-</p>
-
 
 ## Running Tests
 
@@ -45,7 +28,7 @@ To run this model, run the following command in the terminal
 
 **Framework:**  Django
 
-**Libraries** : Pandas, Numpy
+**Libraries** : Pandas, Numpy, seaborn, sklearn
 
   
 ## Django Documentation
@@ -78,3 +61,19 @@ To verify that Django can be seen by Python, type python from your shell. Then a
 ![Logo](https://png.pngtree.com/thumb_back/fw800/background/20190221/ourmid/pngtree-texture-geometric-black-metal-gradient-image_17809.jpg)
 
     
+## 🚀 About Me
+
+ 🌱 I’m currently learning **Python , Machine learning, Deep Learning, Data Analytics, Mathematics**
+
+- 👨‍💻 **All of my projects are available at** [https://github.com/Ryzxxl](https://github.com/Ryzxxl)
+
+- 📫 **How to reach me rakshitraina1234@gmail.com**
+
+- 📄 **Know about my experiences** [https://www.linkedin.com/in/rakshit-khajuria-3627781b8/](https://www.linkedin.com/in/rakshit-khajuria-3627781b8/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rakshit-khajuria-3627781b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakshit-khajuria-3627781b8" height="30" width="40" /></a>
+<a href="https://kaggle.com/rakshitkhajuria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rakshitkhajuria" height="30" width="40" /></a>
+<a href="https://instagram.com/_x.rakshit_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_x.rakshit_s" height="30" width="40" /></a>
+</p>
